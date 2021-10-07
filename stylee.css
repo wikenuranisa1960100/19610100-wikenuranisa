@@ -65,22 +65,25 @@ section{
     margin-bottom: 50px;
 }
 .kolom .deskripsi{
-    font-size: 20px;
+    font-size: 40px;
     font-weight: bold;
     font-family: 'times new roman';
     color:rgb(8, 59, 107);
+    margin-top: 150px;
+    margin-left: 10px;
 }
 h2{
     font-family: 'times new roman';    
     font-weight: bold;   
-    font-size: 20px;
+    font-size: 40px;
     margin-bottom: 20px;
+    margin-left: 80px;
     color:rgb(8, 59, 107); 
     width: 100%;
-    line-height: 50px;
+    line-height: 70px;
 }
 h1{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
     font-family: 'times new roman';
     color:rgb(8, 59, 107);
@@ -89,4 +92,20 @@ h1{
     width: 1600px;
     margin:auto;
     position: relative;
+    font-size: 20px;
+    font-weight: 20px;
+}
+
+img{
+    width:800px;
+    height:500px;
+}
+pre{
+    font-size: 20px;
+    font-family: 'times new roman';
+    
+}
+p{
+    font-size: 25px;
+    font-family: 'times new roman';  
 }
