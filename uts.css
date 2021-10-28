@@ -29,7 +29,7 @@ nav{
     display: flex;
     line-height: 80px;
     position: sticky;
-    position: relative;
+    position: -webkit-sticky;
     top: 0px;
     background:#FFFFFF;
     z-index: 1;
