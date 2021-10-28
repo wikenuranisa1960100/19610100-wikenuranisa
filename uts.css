@@ -72,6 +72,15 @@ section{
     margin-top: 150px;
     margin-left: 10px;
 }
+.banner{
+    height: 200px;
+    background-image: url("https://github.com/wikenuranisa1960100/19610100-wikenuranisa/blob/main/IMG20190901143615.jpg?raw=true");
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
 h2{
     font-family: 'times new roman';    
     font-weight: bold;   
@@ -81,6 +90,24 @@ h2{
     color:rgb(28, 158, 209); 
     width: 100%;
     line-height: 70px;
+}
+a.tbl-biru{
+    background: #0676f7;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+}
+a.tbl-biru:hover{
+    background: #8d0970;
+    text-decoration: none;
+}
+
+p{
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
 }
 
 img{
@@ -92,6 +119,7 @@ img{
     text-align: center;
     width: 100%;
 }
+
 .pendidikan-list{
     width: 100%;
     position: relative;
@@ -120,6 +148,7 @@ img{
 #contact{
     background: #7e3030;
     padding: 50px 0px 50px 0px;
+    background-color: #7e3030;
 }
 .footer{
     width: 100%;
